@@ -1,7 +1,7 @@
 # 🧙‍♂️ Repositório de Desafios - DIO
 
 Bem-vindo(a)! 👋  
-Meu nome é **Gi**, sou estudante de **Ciência da Computação** e este repositório foi criado para registrar e compartilhar minha evolução através dos **desafios propostos pela [Digital Innovation One (DIO)](https://www.dio.me/)**.  
+Meu nome é **Giovanna Cambraia**, sou estudante de **Ciência da Computação** e este repositório foi criado para registrar e compartilhar minha evolução através dos **desafios propostos pela [Digital Innovation One (DIO)](https://www.dio.me/)**.  
 
 Atualmente, estou cursando a trilha de formação:
 
